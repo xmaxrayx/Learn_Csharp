@@ -1,0 +1,15 @@
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\bin\Debug\net7.0\Learn_C-sharp.exe
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\bin\Debug\net7.0\Learn_C-sharp.deps.json
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\bin\Debug\net7.0\Learn_C-sharp.runtimeconfig.json
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\bin\Debug\net7.0\Learn_C-sharp.dll
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\bin\Debug\net7.0\Learn_C-sharp.pdb
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\obj\Debug\net7.0\Learn_C-sharp.csproj.AssemblyReference.cache
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\obj\Debug\net7.0\Learn_C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\obj\Debug\net7.0\Learn_C-sharp.AssemblyInfoInputs.cache
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\obj\Debug\net7.0\Learn_C-sharp.AssemblyInfo.cs
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\obj\Debug\net7.0\Learn_C-sharp.csproj.CoreCompileInputs.cache
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\obj\Debug\net7.0\Learn_C-sharp.dll
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\obj\Debug\net7.0\refint\Learn_C-sharp.dll
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\obj\Debug\net7.0\Learn_C-sharp.pdb
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\obj\Debug\net7.0\Learn_C-sharp.genruntimeconfig.cache
+C:\Users\max\Documents\Github_Unbreakable\Learn_C-sharp\[1]\obj\Debug\net7.0\ref\Learn_C-sharp.dll
